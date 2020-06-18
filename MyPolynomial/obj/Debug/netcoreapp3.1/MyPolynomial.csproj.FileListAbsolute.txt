@@ -1,0 +1,13 @@
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\bin\Debug\netcoreapp3.1\MyPolynomial.exe
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\bin\Debug\netcoreapp3.1\MyPolynomial.deps.json
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\bin\Debug\netcoreapp3.1\MyPolynomial.runtimeconfig.json
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\bin\Debug\netcoreapp3.1\MyPolynomial.runtimeconfig.dev.json
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\bin\Debug\netcoreapp3.1\MyPolynomial.dll
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\bin\Debug\netcoreapp3.1\MyPolynomial.pdb
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.csprojAssemblyReference.cache
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.csproj.CoreCompileInputs.cache
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.AssemblyInfoInputs.cache
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.AssemblyInfo.cs
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.dll
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.pdb
+C:\Users\siddharth.patro\Desktop\MyPolynomial\MyPolynomial\obj\Debug\netcoreapp3.1\MyPolynomial.genruntimeconfig.cache
